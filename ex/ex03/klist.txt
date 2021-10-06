@@ -1,5 +1,0 @@
-Credentials cache: API:5990
-        Principal: guvargas@42MADRID.COM
-
-  Issued                Expires             Flags    Principal
-Sep 20 12:32:05 2021  Sep 20 22:31:58 2021  FPIA   krbtgt/42MADRID.COM@42MADRID.COM
